@@ -22,15 +22,5 @@
 <div align="center">
     <img width=340 src="https://github-readme-stats.vercel.app/api?username=sauce-chili&show_icons=true&count_private=true&rank_icon=github&theme=transparent" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauce-chili&layout=compact&langs_count=3&theme=transparent" /> 
-    <br>
-    <br>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sauce-chili&theme=transparent" />
-<!--     <br>
-    <br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sauce-chili&theme=transparent" /> -->
 </div>
-<h2 align="center">Connect with me</h2>
-<br>
-<p align="center">
-    <a href="https://t.me/sauce_chili" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> </a>
 </p>
