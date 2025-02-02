@@ -17,10 +17,10 @@
     <br>
     <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,postman,linux,bash,figma&perline=10" />
   </a>
-</p>
+<!-- </p>
 <h2 align="center">Stats</h2>
 <div align="center">
     <img width=340 src="https://github-readme-stats.vercel.app/api?username=sauce-chili&show_icons=true&count_private=true&rank_icon=github&theme=transparent" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauce-chili&layout=compact&langs_count=3&theme=transparent" /> 
 </div>
-</p>
+</p> -->
