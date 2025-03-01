@@ -3,7 +3,6 @@
 - **About**: I am a Java/Kotlin developer. At the moment I am interested in backend development with microservice architecture. I am also trying to write scientific articles with ML.
 - **Education**: VSTU, Software Engineering
 - **I am currently learning**: Microservices
-- **Fun fact**: I love rock'n'roll,heavy-metal and jazz
 
 <h2 align="center">Skills</h2>
 <br>
